@@ -1,0 +1,5 @@
+*.msi
+*.exe
+build/
+dist/
+nbproject/private/
